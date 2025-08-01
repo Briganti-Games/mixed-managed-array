@@ -47,5 +47,5 @@ for (int i = 0; i < arraySize; i++)
 
 ```
 
-#License
+# License
 mixed-managed-array is developed by Sander van Rossen (Briganti) and uses the MIT license.
